@@ -1,0 +1,7 @@
+# Program: Add two numbers
+
+LOADI 10
+LOADI 20
+ADD
+PRINT
+HALT
